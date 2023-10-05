@@ -21,6 +21,7 @@ Lucas Kande Affine
 
 https://github.com/anishajain22/OpticalTrackingSystem/assets/38261176/60762e08-e713-457f-b685-b34a08af9cce
 
+![video](code/output_video.mp4)
 
 
 
